@@ -9,7 +9,7 @@ setup(
     install_requires=[
         'torch',
         'emoji==0.4.5',
-        'numpy==1.13.1',
+        'numpy==1.22.4',
         'scipy==1.8.0',
         'scikit-learn==0.19.0',
         'text-unidecode==1.0',
