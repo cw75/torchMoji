@@ -10,7 +10,7 @@ setup(
         'torch',
         'emoji==0.4.5',
         'numpy==1.13.1',
-        'scipy==0.19.1',
+        'scipy==1.8.0',
         'scikit-learn==0.19.0',
         'text-unidecode==1.0',
     ],
